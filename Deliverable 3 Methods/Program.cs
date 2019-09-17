@@ -33,7 +33,7 @@ namespace Deliverable_3_Methods
                 {
                     CorrectText(nameinput);
                 }
-            } // End of try
+            } 
         }
 
         //creates a method for an string input
